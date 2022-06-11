@@ -1,0 +1,17 @@
+h1{
+    background-color: black;
+    color: antiquewhite;
+}
+h2{
+    background-color: rebeccapurple;
+    color: antiquewhite;
+}
+a{
+    background-color: skyblue;
+    position: relative;
+    left: 1250px;
+    
+}
+h3{
+    background-color: skyblue;
+}
